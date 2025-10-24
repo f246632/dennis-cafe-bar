@@ -1,0 +1,59 @@
+{
+  "cafe_name": "Dennis Café Bar",
+  "category": "Bar/Café",
+  "location": {
+    "street": "Langhansstraße",
+    "postal_code": "13086",
+    "district": "Weißensee",
+    "city": "Berlin",
+    "country": "Deutschland"
+  },
+  "contact": {
+    "phone": "+49 30 26595282",
+    "phone_formatted": "+49 30 26595282",
+    "email": "contact@denniscafebar.de",
+    "website": "https://f246632.github.io/dennis-cafe-bar"
+  },
+  "social_media": {
+    "facebook": "https://m.facebook.com/profile.php?id=171195123541086",
+    "facebook_stats": {
+      "checkins": 305,
+      "likes": 133
+    },
+    "instagram": "To be verified",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Dennis%20Caf%C3%A9%20Bar&query_place_id=ChIJgfDFdOhNqEcRMG_QWOChZfo"
+  },
+  "ratings": {
+    "google": "Below average (exact rating to be verified)",
+    "sources": ["Google", "Restaurant Guru", "TripAdvisor", "Yelp"]
+  },
+  "features": {
+    "wheelchair_accessible": true,
+    "ground_level": true,
+    "smoking_allowed": true,
+    "age_restriction": "18+",
+    "atmosphere": "Cozy",
+    "service": "Prompt"
+  },
+  "offerings": {
+    "beverages": ["Coffee", "Latte Macchiato", "Cuba Libre", "Beer"],
+    "price_range": "€10-20 per person"
+  },
+  "highlights": [
+    "Cheerful staff",
+    "Prompt service",
+    "Cozy atmosphere",
+    "Local neighborhood bar",
+    "Smoking friendly",
+    "Wheelchair accessible"
+  ],
+  "images_count": 9,
+  "research_date": "2025-10-24",
+  "data_sources": [
+    "Restaurant Guru",
+    "TripAdvisor",
+    "Yelp",
+    "Facebook",
+    "Google Maps"
+  ]
+}
